@@ -1,6 +1,7 @@
 ## How to run it
 
 - Add Riot API key to `server/.env` file
+- Install dependencies in both `client` and `server` sub-folders
 - Launch server-side first: `node app.js`
 - Launch client-side: `npm run start`
 
